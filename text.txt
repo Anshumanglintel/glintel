@@ -1,1 +1,26 @@
-substace
+ This is my first lecture on git hub technology.
+ Commands:
+
+1. git clone <repo name>
+
+2. To save 
+  1. git add <file name>  to save single file
+  2. git add .  to save all file
+  3. git commit -m "message , please change message evry time"
+  4. git push
+
+ Some times there will be asked user/pass to push and it will show the other commands in the cmd line black scree.
+
+3. To create branch
+	git checkout -b "branch name"
+
+4. to switch between branch
+	git checkout "branch name"
+
+5. To list all branch
+	git branch
+
+6. git merge
+7. git rebase
+8. git reset --hard
+9. git stash
